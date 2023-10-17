@@ -1,0 +1,27 @@
+[
+  {
+    "key": "Home",
+    "url": "/",
+    "children": []
+  },
+  {
+    "key": "About Us",
+    "url": "/about/",
+    "children": []
+  },
+  {
+    "key": "Projects",
+    "url": "/projects/",
+    "children": []
+  },
+  {
+    "key": "Reviews",
+    "url": "/reviews/",
+    "children": []
+  },
+  {
+    "key": "Blog",
+    "url": "/blog/",
+    "children": []
+  }
+]

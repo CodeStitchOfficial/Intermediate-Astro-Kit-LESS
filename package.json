@@ -1,0 +1,21 @@
+{
+  "name": "intermediate-astro-kit-less",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^3.3.1",
+    "autoprefixer": "^10.4.16",
+    "less": "^4.2.0"
+  }
+}
