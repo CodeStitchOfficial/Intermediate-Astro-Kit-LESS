@@ -5,7 +5,7 @@ import Footer from "@components/Footer.astro";
 import "@styles/root.less";
 import "@styles/dark.less";
 
-const {description, title, preloadImg} = Astro.props;
+const {description, title, preloadImg = ""} = Astro.props;
 ---
 <!-- A fully fleshed-out <head>, dynamically changing based on client.json and the page front matter -->
 <html lang="en">
