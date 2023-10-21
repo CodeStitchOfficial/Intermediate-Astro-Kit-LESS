@@ -35,9 +35,9 @@ import navData from "@data/navData.json";
               <li
                 class:list={[
                   "cs-li",
-                  { "cs-dropdown": entry.children.length > 0 },
+                  { "cs-dropdown": entry.children?.length > 0 },
                 ]}
-                tabindex={entry.children.length > 0 ? "0" : ""}
+                tabindex={entry.children?.length > 0 ? "0" : ""}
               >
                 <a
                   href={entry.url}
@@ -48,7 +48,7 @@ import navData from "@data/navData.json";
                 >
                   {entry.key}
                 </a>
-                {entry.children.length > 0 && (
+                {entry.children?.length > 0 && (
                   <ul class="cs-drop-ul">
                     {entry.children.map((child) => (
                       <li class="cs-drop-li">

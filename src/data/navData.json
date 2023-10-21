@@ -1,23 +1,19 @@
 [
   {
     "key": "Home",
-    "url": "/",
-    "children": []
+    "url": "/"
   },
   {
     "key": "About Us",
-    "url": "/about/",
-    "children": []
+    "url": "/about/"
   },
   {
     "key": "Projects",
-    "url": "/projects/",
-    "children": []
+    "url": "/projects/"
   },
   {
     "key": "Reviews",
-    "url": "/reviews/",
-    "children": []
+    "url": "/reviews/"
   },
   {
     "key": "Blog",
