@@ -7,7 +7,7 @@
   <h3 align="center">Intermediate Starter Kit (Astro + LESS)</h3>
 
   <p align="center">
-    Introducing the official intermediate starter kit, presented by CodeStitch. This kit includes a pre-configured Astro setup, along with a seamless integration of Decap CMS, providing an easy way to manage a blog. Everything is ready to go right from the start, offering a fantastic introduction to the advantages of a Static Site Generator, complete with LESS preprocessing.
+    Introducing the official Astro intermediate starter kit, presented by CodeStitch. This kit includes a pre-configured Astro setup, along with a seamless integration of Decap CMS, providing an easy way to manage a blog. Everything is ready to go right from the start, offering a fantastic introduction to the advantages of a Static Site Generator, complete with LESS preprocessing.
     <br/>
     <br/>
     <a href="https://codestitch-intermediate-astro.netlify.app">View Live Result</a>
