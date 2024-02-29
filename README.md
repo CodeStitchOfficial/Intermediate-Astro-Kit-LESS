@@ -115,7 +115,7 @@ Only the vanilla web technologies are _required_ before using this kit, with som
 
 ## Getting Started
 
-1. At the top right of the <a href="https://github.com/ItsEthanH/intermediate-starter-less">GitHub Repository</a>, click the green _Use this template_ button,
+1. At the top right of the <a href="https://github.com/CodeStitchOfficial/Intermediate-Astro-Kit-LESS">GitHub Repository</a>, click the green _Use this template_ button,
    then click _Create a new repository_.
 2. Follow the instructions to create a new repository, using this repo as a template.
 3. When created, clone the repository to your local machine.
